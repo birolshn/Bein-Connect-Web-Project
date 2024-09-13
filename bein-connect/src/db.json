@@ -1,0 +1,308 @@
+{
+    "newSeries": [
+        {
+            "id": 1,
+            "name": "Bir Düşüşün Anatomisi",
+            "type": "Drama",
+            "time": "145 dk",
+            "director": "Justine Triet",
+            "actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner, Camille Rutherford, Antoine Reinartz",
+            "description": "Sandra, eşi Samuel ve görme engelli oğlu Fransız Alpleri’nde bir kulübede yaşarlar. Samuel yüksekten düşüp ölünce Sandra cinayet suçlamasıyla tutuklanır.En İyi Film dahil 5 dalda aday gösterildiği 96. Oscar ödüllerinde En İyi Senaryo ödülüne layık görülen yapıt, dünya prömiyerini yaptığı Cannes Film Festivali’nde Altın Palmiye’nin sahibi oldu.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000424550/anatomy-of-a-fall-turkce_220x286.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Annelik İçgüdüsü",
+            "type": "Drama",
+            "time": "90 dk",
+            "director": "Benoit Delhomme",
+            "actors": "Jessica Chastain, Anne Hathaway, Anders Danielsen Lie, Josh Charles, Caroline Lagerfelt, Baylen D. Bielitz",
+            "description": "Alice ve Celine, eşleri ve aynı yaştaki oğullarıyla geleneksel bir yaşam tarzı yaşarken, hayatın mükemmel uyumu trajik bir kazanın ardından aniden bozulur.Oscar'lı oyuncular Jessica Chastain ve Anne Hathaway'i izlediğimiz psikolojik gerilim türündeki film, Barbara Abel'in Derriere La Haine romanından uyarlanan 2018 yapımı filmin yeniden çevrimi.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000376412/mothers-instinct_220x286.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Para Çıkışı",
+            "type": "Aksiyon",
+            "time": "86 dk",
+            "director": "Randall Emmett",
+            "actors": "John Travolta, Kristin Davis, Lukas Haas, Quavo",
+            "description": "Mason ve kardeşinin kalkıştıkları banka soygunu ters gidince, Mason baş müzakereci eski sevgilisiyle pazarlık yapmak zorunda kalır.‘İrlandalı - The Irishman’, ‘Son Çıkmaz - Wrong Turn’ gibi filmlerin yapımcısı Randall Emmett’in yönetmen koltuğunda oturduğu yapımda, usta oyuncu John Travolta ve ‘Sex and the City’nin Charlotte’ı Kristin Davis’i izliyoruz.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000376409/cash-out_220x286_raw.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Korsaj",
+            "type": "Biyografi",
+            "time": "109 dk",
+            "director": "Marie Kreutzer",
+            "actors": "Vicky Krieps, Florian Teichtmeister, Katharina Lorenz, Jeanne Werner",
+            "description": "1877 Noel arifesinde bir zamanlar güzelliğiyle idolleştirilen Elisabeth 40 yaşına geldiğinde resmi olarak yaşlı bir kadın olarak kabul edilir ve imajını korumaya çalışır.Avusturya İmparatoriçesi Elisabeth'in hayatındaki bir yılın kurgusal bir anlatımı olan yapım, prömiyerini Cannes Film Festivali'nde gerçekleştirdikten sonra Bafta'da Yabancı Dilde En İyi Film dalında yarıştı. Film aynı zamanda 95. Oscar Ödülleri'nde Avusturya'nın resmi adayıydı.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000425903/corsage-2022-turkce_220x286_raw.jpg"
+        },
+        {
+            "id": 5,
+            "name": "House of the Dragon",
+            "type": "Fantastik",
+            "time": "2 Sezon",
+            "director": "Clare Kilner",
+            "actors": "Emma Darcy, Matt Smith, Olivia Cooke, Rhys Ifans, Eve Best, Tom Glynn-Carney, Ewan Mitchell",
+            "description": "George R.R. Martin'in Fire & Blood adlı eserinden uyarlanan dizi, dünyaca ünlü “Game of Thrones”ta yaşanan olaylardan 200 yıl öncesinde geçiyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000007655/house-of-dragon-season2_220x286.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Zamanın Kapıları",
+            "type": "Drama",
+            "time": "1 Sezon",
+            "director": "Yunus Ozan Korkut",
+            "actors": "Birkan Sokullu, Esra Bilgiç, Cem Bender, Erkan Can, İbrahim Selim, Alper Saldıran, Selen Uçer, Elçin Afacan",
+            "description": "Hırslı ve güzel iş kadını Nevra ile bilgisayar dehası, gizemli Sinan'ın yolları kesişince geçmişin kapıları bir bir açılır.İkili, köklerine doğru sır ve gerilim dolu bir yolculuğa çıkarlar. Ayşe Övür'ün aynı adlı kitabından uyarlanan dizide başrolleri Birkan Sokullu ve Esra Bilgiç paylaşıyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000007559/zamanin-kapilari-sezon1-rev_220x286.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Resif: Kanlı Takip",
+            "type": "Korku",
+            "time": "88 dk",
+            "director": "Andrew Traucki",
+            "actors": "Teressa Liane, Ann Truong, Saskia Archer, Bridget Burt, Tim Ross",
+            "description": "Kız kardeşinin ölümünün ardından Nic ve arkadaşları kano yapmak için Pasifik adasına giderler. Bu planları, katil köpekbalığı yüzünden cehenneme döner. Andrew Traucki'nin yazıp yönettiği filmde Teressa Liane, Ann Truong ve Saskia Archer'ı izliyoruz.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000425904/reef-stalked-the-turkce_220x286_raw.jpg"
+        },
+        {
+            "id": 8,
+            "name": "5000 Battaniye",
+            "type": "Drama",
+            "time": "88 dk",
+            "director": "Amin Matalqa",
+            "actors": "Anna Camp, Rob Mayes, Kim Myers, Jason Coviello",
+            "description": "Zihinsel çöküntü yaşayıp kaybolan kocasını sokaklarda arayan bir kadın ve küçük oğlu, şehre ilham veren bir hareketin fitilini ateşler.Etkileyici konusuyla dikkat çeken filmde Anna Camp ve Rob Mayes’i izliyoruz.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000421146/blankets-5000-turkce_220x286_raw.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Curb Your Enthusiasm",
+            "type": "Komedi",
+            "time": " 12 Sezon",
+            "director": "",
+            "actors": "Larry David, Cheryl Hines, Jeff Garlin, Susie Essman, J.B. Smoove",
+            "description": "Emmy ve Atın Küre ödüllü Curb Your Enthusiasm bu kez hız kesmeden ekranlara geri dönüyor. Seinfeldin yapımcılarından Larry David'in başrolde yer aldığı dizinin yeni sezonunda da Larry ve arkadaşlarının renkli ve karmaşık hikayelerine kahkahalarla ortak olmaya devam ediyoruz.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000007703/curb-your-enthusiasm-season12-yeni_220x286.jpg"
+        },
+        {
+            "id": 10,
+            "name": "S.W.A.T.",
+            "type": "Polisiye",
+            "time": "4 Sezon",
+            "director": "Clark Johnson",
+            "actors": "Shemar Moore, Jay Harrington, David Lim, Lina Esco, Alex Russell, Patrick St. Esprit",
+            "description": "Eski denizci Çavuş Daniel Hondo Harrelson, oldukça özel bir görev için lider olarak seçilir. Los Angeles'ta gücüne güç katan ekibiyle birbirinden zorlu görevlere imza atar. Robert Hamner tarafından yaratılan S.W.A.T.ın özel eğitimli polisleri, aksiyon dolu hayatlarıyla ekranlarınızda!",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000007551/swat-season4_220x286.jpg"
+        }
+    ],
+    "todOriginals": [
+        {
+            "id": 11,
+            "name": "Sarmaşık Zamanı",
+            "type": "Drama",
+            "time": "1 Sezon",
+            "director": "Gökçen Usta",
+            "actors": "Burçin Terzioğlu, Onur Tuna, Hazal Türesan, Yiğit Kirazcı, Tilbe Saran, Emre Karayel, Emel Çölgeçen, Özgür Emre Yıldırım",
+            "description": "Ezgi, görünüşte bir kadının isteyeceği her şeye sahipti... Bir evlat, onu seven yakışıklı ve ilgili bir koca, sevdiği bir iş, zengin ve rahat bir yaşam... Bir gün karşısına çıkan bir yabancının sözleri her şeyi alt üst etti: Kocan seni öldürmek istiyor! Ezgi artık kime güveneceğini bilmiyordu...",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000006854/sarmasik-zamani-sezon1-tod_220x286.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Erkek Severse",
+            "type": "Drama",
+            "time": "1 Sezon",
+            "director": "Ömür Atay, Zeliha Orman",
+            "actors": "Alperen Duymaz, Büşra Develi, Yasemin Allen, Görkem Sevindik, Yağızcan Konyalı, Tolga Güleç",
+            "description": "“Erkek Severse”, izleyenleri büyülü bir aşk masalına davet ediyor. Güçlü kadrosuyla dikkat çeken dizide başrolleri Alperen Duymaz, Büşra Develi, Yasemin Kay Allen, Görkem Sevindik ve Yağızcan Konyalı paylaşıyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000006266/erkek-severse-tod_220x286.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Hayaller ve Hayatlar",
+            "type": "Drama",
+            "time": "1 Sezon",
+            "director": "Altan Dönmez, Orkun Çatak",
+            "actors": "Özge Gürel, Aybüke Pusat, Melisa Aslı Pamuk, Yeşim Ceren Bozoğlu, Yusuf Çim, Serkay Tütüncü, Ekin Mert Daymaz, Halil İbrahim Kurum, Özge Özacar",
+            "description": "Hayallerinin peşinde koşarken hayata yakalananların hikayesini anlatan dizi, dört yakın arkadaşın hayallerini gerçekleştirme çabasına odaklanıyor. Hayalleri ve hayatları uymayan genç kadınların mücadelesi, bir cinayet haberiyle daha da karmaşıklaşıyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000006289/hayaller-ve-hayatlar-tod_220x286.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Var Bunlar",
+            "type": "Komedi",
+            "time": "2 Sezon",
+            "director": "Arif Gökdeniz Uslu",
+            "actors": "Giray Altınok, Kerem Özdoğan",
+            "description": "Kahkahanın yeni adresi “Var Bunlar”, gündelik hayatın içinden çıkılmaz tekdüzeliğine sürüklenen iki yakın arkadaşın eğlenceli maceralarını konu alıyor. Senaryosunu da kaleme aldıkları projede başrolleri paylaşan Giray Altınok ve Kerem Özdoğan’a, her bölüm ünlü konuk oyuncular eşlik ediyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000006768/var-bunlar-sezon2-tod_220x286.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Fandom",
+            "type": "Komedi",
+            "time": "2 Sezon",
+            "director": "Tayfun Güneyer",
+            "actors": "Tuğçe Altuğ, Şahin Irmak, Eren Vurdem, Ozan Güçlü, İnci Şen, Gamze Demirbilek, Burcu Kara, Ebru Aytemur",
+            "description": "Televizyon dizilerinin fanatik hayranlarının sosyal medyada “Fandom” adı altında örgütlenip dizilerin senaristlerine karşı açtıkları savaşı eğlenceli bir dille anlatıyor.Özgün senaryosu ve güçlü kadrosuyla merak uyandıran kara mizah türündeki “Fandom”, televizyon sektörünü eleştirel bir yaklaşımla ele alıyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000005949/fandom-sezon1-tod_220x286.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Cici Anne",
+            "type": "Komedi",
+            "time": "130 dk",
+            "director": "Hasan Doğan",
+            "actors": "Burçin Bildik, Ceren Benderlioğlu, Aslı Bekiroğlu, Binnur Şerbetçioğlu, İlayda Sezgin, Nilüfer Kılıçarslan",
+            "description": "Karısını erken yaşta kaybeden Kemal, iki kızı Ceren ve Beren ile yaşamaktadır. Kemal ileride kızlarının evlenip gideceğini düşünerek artık hayatına bir kadın almaya karar verir. Ancak Kemal’in evlenmek için kızları ile tanıştırmaya getirdiği eş adaylarını, kızları Beren, Ceren ve dadıları Zeliş türlü oyunlar yaparak evden kaçmasını sağlar.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000417665/cici-anne_220x286_raw.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Kadın Kafası",
+            "type": "Romantik Komedi",
+            "time": "89 dk",
+            "director": "Murat Aslan",
+            "actors": "Melis Birkan, Ufuk Özkan, Türkü Turan, Celil Nalçakan, Hande Katipoğlu, Açelya Elmas",
+            "description": "Kendini işine adamış Beyza, henüz bir ay tanıştığı Tankut'tan sürpriz evlenme teklifi alır fakat Beyza'nın evlenme konusunda tereddütleri vardır.Bunun üzerine çocukluk arkadaşlarından nasıl davranması gerektiği konusunda yardım istemeye karar verir ve uyum testine başvurur.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000417666/kadin-kafasi_220x286_raw.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Çiftliğimin Hanımı",
+            "type": "Komedi",
+            "time": "110 dk",
+            "director": "Hasan Doğan",
+            "actors": "Aslı Bekiroğlu, Halil İbrahim Kurum, Tuna Arman, Suat Sungur, Selahattin Taşdöğen, Nilüfer Kılıçarslan, Rüya Coriç",
+            "description": "Yasemin babasının kötüye giden işlerini kurtarmak için zengin ama mütevazı bir hayat yaşayan çiftlik sahibi bir ailenin oğlu Mehmet ile evlenmek zorunda kalır.Türlü oyunlarla evliliğe ikna edip, istediğini alır almaz ayrılmak için çabaladığı Mehmet’i terk edip kaçar. Neler olduğunu anlayamayan Mehmet kredi kartı takibiyle karısının yerini bulur. Hesaplaşmalar, ortaya saçılan gerçekler ve yaşanılan pişmanlıklar…",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000417663/ciftligimin-hanimi_220x286_raw.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Para Nerede",
+            "type": "Komedi",
+            "time": "120 dk",
+            "director": "Hasan Doğan",
+            "actors": "Burçin Bildik, Cansın Çekili, Selahattin Taşdöğen, Gözde Demirtaş, Metin Keçeci, Rüya Coriç",
+            "description": "Necip, trafik kazası sonucu kafasına bir darbe almış ve bu darbe sonucunda da hafıza kaybı yaşamaktadır. Kimlik bilgilerinden bakarak yakınlarına haber verilir.Kısa bir süre sonra köyün muhtarı Şevket ve köy ahvalinden Selim ve Hayati hastaneye gelir. Öfkelidirler çünkü Necip köye ait 9 milyon lirayla ortadan kaybolmuştur.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000417664/para-nerede_220x286_raw.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Torun Davası",
+            "type": "Komedi",
+            "time": "112 dk",
+            "director": "Hasan Doğan",
+            "actors": "Ceren Benderlioğlu, Binnur Şerbetçioğlu, Sergen Deveci, Duygu Keser, Can Verel, Birgül Ulusoy",
+            "description": "Torun sevdası ile yanıp tutuşan Hacer’in iki kızı vardır. Büyük kızı Hayat boşanıp yanına yerleşmiştir. Küçük kızı Hediye ise evlidir ama boşanma kararı almak üzeredir.Hacer küçük kızı Hediye ile eşi boşanmasın diye elinden geleni yapar. Tek isteği bir torundur. Hayat’ın boşandığı eşi Erdil ise tekrar aileye musallat olur.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000417660/torun-davasi_220x286_raw.jpg"
+        }
+    ],
+    "fantasticEarths": [
+        {
+            "id": 21,
+            "name": "Game of Thrones",
+            "type": "Fantastik",
+            "time": "8 Sezon",
+            "director": "Tim Van Patten",
+            "actors": "Sean Bean, Lena Headey, Nikolaj Coster-Waldau, Peter Dinklage, Kit Harington, Emilia Clarke",
+            "description": "Altın Küre ve Emmy ödüllü fenomen dizi “Game of Thrones” tüm sezonlarıyla karşınızda!",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PZ0000002510/game-of-thrones-1sezon_220x286.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Örümcek Adam: Eve Dönüş Yok",
+            "type": "Macera",
+            "time": "142 dk",
+            "director": "Jon Watts",
+            "actors": "Tom Holland, Zendaya , Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Marisa Tomei, Andrew Garfield, Tobey Maguire",
+            "description": "Örümcek Adam'ın kimliğinin açığa çıkmasıyla Peter, Dr. Strange'den yardım ister. Bir büyü ters gittiğinde, diğer dünyalardan düşmanlar ortaya çıkar.2022 Oscar ödüllerinde En İyi Görsel Efekt adaylığı bulunan ve dünya genelinde 1 milyar dolardan fazla hasılat yapan film adeta bir yıldızlar geçidi.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000418614/spider-man-no-way-home-turkce_220x286_raw.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Örümcek-Adam: Örümcek Evreninde",
+            "type": "Animasyon",
+            "time": "112 dk",
+            "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+            "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry",
+            "description": "Brooklyn'li bir genç olan Miles Morales, Peter Parker ve diğer evrenlerden gelen ziyaretçilerle beraber yaşadığı dünyayı kurtarmaya çalışır.En İyi Animasyon Filmi Oscar Ödülüne sahip olan yapım müzikleriyle de ön plana çıkarken dünya çapında 380 milyon dolardan fazla gişe hasılatına sahip oldu.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000418656/spider-man-into-the-spider-verse-turkce_220x286_raw.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Ghostbusters: Hayalet Avcıları",
+            "type": "Aksiyon",
+            "time": "111 dk",
+            "director": "Paul Feig",
+            "actors": "Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones, Chris Hemsworth, Zach Woods",
+            "description": "Manhattan şehri doğa üstü güçlerin istilasına uğramıştır. Paranormal olaylara merak salan iki kafadar Erin ve Abby bir ekip oluşturarak maceraya atılırlar.Farklı bir ekiple tekrar sahalara dönen Hayalet Avcılarında bu sefer komedi türünün başarılı aktrisleri Melissa McCarthy, Kristen Wiig ve Kate McKinnon yer alıyor.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000106145/ghostbusters-2016-guncel_220x286_raw.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Örümcek Adam 2",
+            "type": "Aksiyon",
+            "time": "122 dk",
+            "director": "Sam Raimi",
+            "actors": "Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco, J.K. Simmons",
+            "description": "Peter Parker, çifte hayatında zorluklarla mücadele etmekten yorulmuştur.Sevdiği kadın Mary Jane ile sorunlar yaşayan Parker'ın karşısına Doktor Octavius çıkacaktır.Serinin ikinci filmi En İyi Görsel Efekt Oscar ödülüne sahip olup dünya çapında 788 milyon dolardan fazla gişe hasılatı elde etti",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000030562/spiderman-2-guncel_220x286_raw.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Örümcek Adam 3",
+            "type": "Aksiyon",
+            "time": "133 dk",
+            "director": "Sam Raimi",
+            "actors": "Tobey Maguire, Kirsten Dunst, Topher Grace, Thomas Haden Church, Bryce Dallas Howard, James Franco, J.K. Simmon",
+            "description": "Peter Parker, Mary Jane ile ilişkisini ve süper kahramanlık arasındaki düzeni nihayet tutturur. Bir gün, Peter'ın kostümü birden bire siyaha döner ve tutumu değişir.Serinin devam eden filminde Venom karakterini ilk kez görürken yapım dünya çapında 890 milyon dolardan fazla gişe hasılatıyla göz dolduruyor",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000030561/spider-man3-turkce-reviize_220x286_raw.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Hayalet Avcıları",
+            "type": "Aksiyon",
+            "time": "100 dk",
+            "director": "Ivan Reitman",
+            "actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Ernie Hudson",
+            "description": "İşsiz kalan üç parapsikoloji profesörü kendilerini meşgul etmek için bir hayalet avcılığı şirketi açarlar ve komedi başlar.En İyi Görsel Efekt ve hafızalara kazınmış şarkısı ile Oscar'a aday olan eğlence dolu fantastik yapım, dünya çapında 296 milyon dolardan fazla gişe hasılatına sahip.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000032659/ghostbusters-1984-turkce-guncel_220x286_raw.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Hayalet Avcıları II",
+            "type": "Aksiyon",
+            "time": "103 dk",
+            "director": "Ivan Reitman",
+            "actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Ernie Hudson",
+            "description": "Şehrin altında sinirli ruhlardan oluşan ve gittikçe yeryüzünü tehdit etmeye başlayan bir nehir keşfeden Hayalet Avcıları tekrar bir araya gelecektir.İlki 1984 yılında çekilen serinin devam filminde yönetmen koltuğunda yine Ivan Reitman otururken, başrol oyuncuları Bill Murray, Dan Aykroyd ve Sigourney Weaver da seriye devam ediyorlar",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000033192/ghostbusters-2-turkce-guncel_220x286_raw.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Arthur Laneti",
+            "type": "Korku",
+            "time": "83 dk",
+            "director": "Barthelemy Grossmann",
+            "actors": "Mathieu Berger, Thalia Besson, Yann Mendy, Jade Pedri, Marceau Ebersolt",
+            "description": "Alex ve çocukluk arkadaşları, bir gün hayran oldukları filmin çekim yerini görmek isterler. Gittiklerinde dehşetle yüz yüze karşılaşacaklardır.Senaryosunu usta yönetmen Luc Besson'ın yazdığı korku filmi gizemli konusuyla adından söz ettiriyor",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000424545/arthur-malediction_220x286_raw.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Jumanji",
+            "type": "Macera",
+            "time": "99 dk",
+            "director": "Joe Johnston",
+            "actors": "Robin Williams, Kirsten Dunst, Bonnie Hunt, Bradley Pierce, Patricia Clarkson, David Alan Grier",
+            "description": "26 yıl boyunca bir oyunun içinde kalan Alan Parrish, iki çocuğun oyunu yeniden oynamasıyla gerçek hayata geri döner ve onunla birlikte şehre vahşi yaşam da gelecektir.Görsel sahneleriyle adından söz ettiren macera dolu yapımın başrolünde Oscar ödüllü unutulmaz oyuncu Robin Williams yer alırken film dünya çapında 260 milyon dolardan fazla gişe hasılatı elde etti.",
+            "image": "https://mediacms01.digiturkplay.com/sa_bc/PT0000031258/jumanji-1995_220x286_raw.jpg"
+        }
+    ]
+}
